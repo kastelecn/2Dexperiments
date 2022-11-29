@@ -1,0 +1,8 @@
+sitra = 10
+v=0m/s at 2000m or lower
+  10m/s at 3000m or higher
+  with a smooth transition
+with 1 or 2 iterations
+time step = 30 s
+
+all with examples of smilag trajectory underground
