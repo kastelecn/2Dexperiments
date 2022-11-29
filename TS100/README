@@ -1,0 +1,5 @@
+SITRA=100
+background wind v=4m/s
+time step = 100s
+1 and 3 step of iteration
+both with some examples of smilag trajectory underground
